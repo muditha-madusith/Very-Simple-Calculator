@@ -12,3 +12,4 @@ if Function == "/":
     output = fN / sN
 
 print("Answer is :",output)
+
